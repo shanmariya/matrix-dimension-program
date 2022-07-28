@@ -1,5 +1,5 @@
-n =int(input("Enter a frist number: "))
-m =int(input("Enter a second number: "))
+n =3
+m =3
 add = []
 lis = []
 lis1 = [1]
